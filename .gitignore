@@ -1,0 +1,16 @@
+# data and results
+outputs/
+*.nc
+*.csv
+*.pkl
+*.zarr/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.egg-info/
+
+# editor / OS
+.vscode/
+.DS_Store
