@@ -1,0 +1,144 @@
+2026-10-27 09:41:14,491 - KMA - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2026-10-27 09:41:14,492 - KMA - INFO - 
+        ---------------------------------------------------------------------------------
+        | Initializing KMA object with the following parameters:
+        |    - num_clusters: 36
+        |    - seed: 42
+        |    - algorithm: kmeans
+        |    - distance_metric: None
+        |    - distance_matrix: None
+        | For more information, please refer to the documentation.
+        ---------------------------------------------------------------------------------
+        
+2026-10-27 09:41:14,492 - KMA - INFO - KMA object created with 36 clusters, algorithm 'kmeans', and seed 42.
+2026-10-27 09:45:07,508 - KMA - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2026-10-27 09:45:07,509 - KMA - INFO - 
+        ---------------------------------------------------------------------------------
+        | Initializing KMA object with the following parameters:
+        |    - num_clusters: 36
+        |    - seed: None
+        |    - algorithm: kmeans
+        |    - distance_metric: None
+        |    - distance_matrix: None
+        | For more information, please refer to the documentation.
+        ---------------------------------------------------------------------------------
+        
+2026-10-27 09:45:07,509 - KMA - INFO - KMA object created with 36 clusters, algorithm 'kmeans', and seed None.
+2026-10-27 09:45:34,113 - KMA - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2026-10-27 09:45:34,113 - KMA - INFO - 
+        ---------------------------------------------------------------------------------
+        | Initializing KMA object with the following parameters:
+        |    - num_clusters: 36
+        |    - seed: None
+        |    - algorithm: kmeans
+        |    - distance_metric: None
+        |    - distance_matrix: None
+        | For more information, please refer to the documentation.
+        ---------------------------------------------------------------------------------
+        
+2026-10-27 09:45:34,113 - KMA - INFO - KMA object created with 36 clusters, algorithm 'kmeans', and seed None.
+2026-10-27 09:45:34,529 - KMA - INFO - Found a stable kmeans configuration after 1 attempts.
+2026-10-27 09:45:47,547 - KMA - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2026-10-27 09:45:47,547 - KMA - INFO - 
+        ---------------------------------------------------------------------------------
+        | Initializing KMA object with the following parameters:
+        |    - num_clusters: 36
+        |    - seed: None
+        |    - algorithm: kmeans
+        |    - distance_metric: None
+        |    - distance_matrix: None
+        | For more information, please refer to the documentation.
+        ---------------------------------------------------------------------------------
+        
+2026-10-27 09:45:47,547 - KMA - INFO - KMA object created with 36 clusters, algorithm 'kmeans', and seed None.
+2026-10-27 09:45:47,873 - KMA - INFO - Found a stable kmeans configuration after 1 attempts.
+2026-10-27 09:46:27,452 - KMA - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2026-10-27 09:46:27,452 - KMA - INFO - 
+        ---------------------------------------------------------------------------------
+        | Initializing KMA object with the following parameters:
+        |    - num_clusters: 36
+        |    - seed: None
+        |    - algorithm: kmeans
+        |    - distance_metric: None
+        |    - distance_matrix: None
+        | For more information, please refer to the documentation.
+        ---------------------------------------------------------------------------------
+        
+2026-10-27 09:46:27,452 - KMA - INFO - KMA object created with 36 clusters, algorithm 'kmeans', and seed None.
+2026-10-27 09:46:27,834 - KMA - INFO - Found a stable kmeans configuration after 1 attempts.
+2026-10-27 09:47:27,854 - KMA - INFO - Saving model to outputs/alr/classifier.pkl
+2026-10-27 09:47:46,887 - KMA - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2026-10-27 09:47:46,887 - KMA - INFO - 
+        ---------------------------------------------------------------------------------
+        | Initializing KMA object with the following parameters:
+        |    - num_clusters: 36
+        |    - seed: None
+        |    - algorithm: kmeans
+        |    - distance_metric: None
+        |    - distance_matrix: None
+        | For more information, please refer to the documentation.
+        ---------------------------------------------------------------------------------
+        
+2026-10-27 09:47:46,887 - KMA - INFO - KMA object created with 36 clusters, algorithm 'kmeans', and seed None.
+2026-10-27 09:47:47,312 - KMA - INFO - Found a stable kmeans configuration after 1 attempts.
+2026-10-27 09:48:11,333 - KMA - INFO - Saving model to ../../outputs/classifier.pkl
+2026-10-27 09:48:16,826 - KMA - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2026-10-27 09:48:16,827 - KMA - INFO - 
+        ---------------------------------------------------------------------------------
+        | Initializing KMA object with the following parameters:
+        |    - num_clusters: 36
+        |    - seed: None
+        |    - algorithm: kmeans
+        |    - distance_metric: None
+        |    - distance_matrix: None
+        | For more information, please refer to the documentation.
+        ---------------------------------------------------------------------------------
+        
+2026-10-27 09:48:16,827 - KMA - INFO - KMA object created with 36 clusters, algorithm 'kmeans', and seed None.
+2026-10-27 09:48:17,133 - KMA - INFO - Found a stable kmeans configuration after 1 attempts.
+2026-10-27 09:48:17,159 - KMA - INFO - Saving model to ../../outputs/classifier.pkl
+2026-10-27 09:50:03,620 - KMA - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2026-10-27 09:50:03,621 - KMA - INFO - 
+        ---------------------------------------------------------------------------------
+        | Initializing KMA object with the following parameters:
+        |    - num_clusters: 36
+        |    - seed: None
+        |    - algorithm: kmeans
+        |    - distance_metric: None
+        |    - distance_matrix: None
+        | For more information, please refer to the documentation.
+        ---------------------------------------------------------------------------------
+        
+2026-10-27 09:50:03,621 - KMA - INFO - KMA object created with 36 clusters, algorithm 'kmeans', and seed None.
+2026-10-27 09:50:04,079 - KMA - INFO - Found a stable kmeans configuration after 1 attempts.
+2026-10-27 09:50:04,102 - KMA - INFO - Saving model to ../../outputs/alr/classifier.pkl
+2026-10-27 09:51:45,575 - KMA - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2026-10-27 09:51:45,575 - KMA - INFO - 
+        ---------------------------------------------------------------------------------
+        | Initializing KMA object with the following parameters:
+        |    - num_clusters: 36
+        |    - seed: None
+        |    - algorithm: kmeans
+        |    - distance_metric: None
+        |    - distance_matrix: None
+        | For more information, please refer to the documentation.
+        ---------------------------------------------------------------------------------
+        
+2026-10-27 09:51:45,575 - KMA - INFO - KMA object created with 36 clusters, algorithm 'kmeans', and seed None.
+2026-10-27 09:51:45,989 - KMA - INFO - Found a stable kmeans configuration after 1 attempts.
+2026-10-27 09:51:46,011 - KMA - INFO - Saving model to ../../outputs/alr/classifier.pkl
+2026-10-27 09:52:16,487 - KMA - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
+2026-10-27 09:52:16,487 - KMA - INFO - 
+        ---------------------------------------------------------------------------------
+        | Initializing KMA object with the following parameters:
+        |    - num_clusters: 36
+        |    - seed: None
+        |    - algorithm: kmeans
+        |    - distance_metric: None
+        |    - distance_matrix: None
+        | For more information, please refer to the documentation.
+        ---------------------------------------------------------------------------------
+        
+2026-10-27 09:52:16,487 - KMA - INFO - KMA object created with 36 clusters, algorithm 'kmeans', and seed None.
+2026-10-27 09:52:16,798 - KMA - INFO - Found a stable kmeans configuration after 1 attempts.
+2026-10-27 09:52:16,823 - KMA - INFO - Saving model to ../../outputs/alr/classifier.pkl

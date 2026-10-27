@@ -1,0 +1,1 @@
+2026-10-27 09:41:14,495 - XWT - INFO - Setting self.num_workers to 1. Change it using self.set_num_processors_to_use method.
